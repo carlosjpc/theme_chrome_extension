@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+
+  "name": "Modify CSS and HTML",
+  "version": "0.1.0",
+  "description": "a grey theme",
+
+  "content_scripts": [{
+    "css": ["stack_overflow/stack_overflow.css",
+            "google.css",
+            "git_hub.css"],
+    "js": ["content.js"],
+    "matches": ["https://google.com.mx/*", "https://stackoverflow.com/*", "https://github.com/*"]
+  }]
+
+}

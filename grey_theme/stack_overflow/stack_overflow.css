@@ -1,0 +1,131 @@
+div.container div#content {
+  background-color: #373F63; }
+
+.inner-content {
+  background-color: #373F63; }
+
+div#question-header h1 a.question-hyperlink {
+  color: #D6EFF6; }
+
+p {
+  color: #D6EFF6; }
+
+li {
+  color: #D6EFF6; }
+
+p.label-key b {
+  color: #BEC0CC; }
+
+a {
+  color: #EBACA5; }
+
+h1#h-top-questions {
+  color: #D6EFF6; }
+
+#question-header {
+  color: #ABBDD3; }
+
+a.question-hyperlink {
+  color: #B38C91; }
+
+a.question-hyperlink:hover {
+  color: #E38D82; }
+
+a.question-hyperlink:active {
+  color: #E38D82; }
+
+code {
+  background-color: #99B3CA;
+  color: #B38C91; }
+
+span.relativetime {
+  color: #BEC0CC; }
+
+a.flag-post-link:hover {
+  color: #D6EFF6; }
+
+div.subheader h2 {
+  color: #BEC0CC; }
+
+div.module h4#h-related {
+  color: #ABBDD3; }
+
+#hot-network-questions {
+  display: none; }
+
+.post-signature {
+  background-color: #373F63; }
+
+#wmd-input {
+  background-color: #4C4964;
+  border: 1px solid #13314B; }
+
+.question-summary {
+  background-color: #373F63; }
+
+.user-info {
+  background-color: #373F63; }
+
+div#tabs a[data-value='oldest'] {
+  background-color: #373F63;
+  color: #D6EFF6; }
+
+div#tabs a[data-value='active'] {
+  background-color: #373F63;
+  color: #D6EFF6; }
+
+div#tabs a[data-value='votes'] {
+  background-color: #373F63;
+  color: #D6EFF6; }
+
+div#sidebar div.module.community-bulletin {
+  background-color: #4C4964;
+  border: 1px solid #13314B; }
+
+div#sidebar div.middle {
+  background-color: #4C4964; }
+
+div#sidebar div#hireme a.top {
+  background-color: #4C4964;
+  border: 2px solid #13314B; }
+
+div#sidebar b {
+  color: #BEC0CC; }
+
+div.post-taglist a.post-tag {
+  background-color: #4C4964;
+  border: 1px solid #13314B;
+  color: #848D95; }
+
+div.tags a.post-tag {
+  background-color: #4C4964;
+  border: 1px solid #13314B;
+  color: #848D95; }
+
+ul.comments-list div.comment-body {
+  color: #BEC0CC; }
+
+#chat-feature {
+  display: none; }
+
+form#post-form h2.space {
+  color: #ABBDD3; }
+
+h2.bottom-notice {
+  color: #D6EFF6; }
+
+div#wmd-button-bar {
+  background-color: #4C4964;
+  border: 1px solid #13314B;
+  color: #D6EFF6; }
+
+td.special-status {
+  background-color: #4C4964;
+  border: 1px solid #13314B;
+  color: #D6EFF6; }
+
+div.question-status {
+  background-color: #4C4964;
+  color: #D6EFF6; }
+
+/*# sourceMappingURL=stack_overflow.css.map */

@@ -1,0 +1,177 @@
+$main-background: #373F63;
+$secondary-background: #4C4964;
+$notes-background: #99B3CA;
+$s-background-border: 1px solid #13314B;
+$link: #EBACA5;
+$link-bold: #B38C91;
+$link-hover: #E38D82;
+$header-letters: #ABBDD3;
+$question-letters: #BEC0CC;
+$aux-letters: #D6EFF6;
+$tags-letters: #848D95;
+
+
+div.container div#content {
+  background-color: $main-background;
+}
+
+.inner-content{
+  background-color: $main-background;
+}
+
+div#question-header h1 a.question-hyperlink {
+  color: $aux-letters;
+}
+
+p {
+  color: $aux-letters;
+}
+
+li {
+  color: $aux-letters;
+}
+
+p.label-key b {
+  color: $question-letters;
+}
+
+a {
+  color: $link;
+}
+
+h1#h-top-questions {
+  color: $aux-letters;
+}
+
+#question-header {
+  color: $header-letters;
+}
+
+a.question-hyperlink {
+    color: $link-bold;
+}
+
+a.question-hyperlink:hover {
+    color: $link-hover;
+}
+
+a.question-hyperlink:active {
+    color: $link-hover;
+}
+
+code {
+  background-color: #99B3CA;
+  color: $link-bold;
+}
+
+span.relativetime {
+  color: $question-letters;
+}
+
+a.flag-post-link:hover {
+  color: $aux-letters;
+}
+
+div.subheader h2 {
+  color: $question-letters;
+}
+
+div.module h4#h-related {
+  color: $header-letters;
+}
+
+#hot-network-questions {
+  display: none;
+}
+.post-signature {
+  background-color: $main-background;
+}
+#wmd-input {
+  background-color: $secondary-background;
+  border: $s-background-border;
+}
+.question-summary {
+  background-color: $main-background;
+}
+
+.user-info {
+  background-color: $main-background;
+}
+
+div#tabs a[data-value='oldest'] {
+  background-color: $main-background;
+  color: $aux-letters;
+}
+
+div#tabs a[data-value='active'] {
+  background-color: $main-background;
+  color: $aux-letters;
+}
+
+div#tabs a[data-value='votes'] {
+  background-color: $main-background;
+  color: $aux-letters;
+}
+
+div#sidebar div.module.community-bulletin {
+  background-color: $secondary-background;
+  border: $s-background-border;
+}
+
+div#sidebar div.middle {
+  background-color: $secondary-background;
+}
+
+div#sidebar div#hireme a.top {
+  background-color: $secondary-background;
+  border: 2px solid #13314B;
+}
+
+div#sidebar b {
+  color: $question-letters;
+}
+
+div.post-taglist a.post-tag {
+  background-color: $secondary-background;
+  border: $s-background-border;
+  color: $tags-letters;
+}
+
+div.tags a.post-tag {
+  background-color: $secondary-background;
+  border: $s-background-border;
+  color: $tags-letters;
+}
+
+ul.comments-list div.comment-body {
+  color: $question-letters;
+}
+
+#chat-feature {
+  display: none;
+}
+
+form#post-form h2.space {
+  color: $header-letters;
+}
+
+h2.bottom-notice {
+  color: $aux-letters
+}
+
+div#wmd-button-bar {
+  background-color: $secondary-background;
+  border: $s-background-border;
+  color: $aux-letters;
+}
+
+td.special-status {
+  background-color: $secondary-background;
+  border: $s-background-border;
+  color: $aux-letters;
+}
+
+div.question-status {
+  background-color: $secondary-background;
+  color: $aux-letters;
+}
